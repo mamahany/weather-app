@@ -1,3 +1,3 @@
-# basic-setup
+# Weather App
 
-Basic project setup (package.json, webpack, Eslint, prettier, readme.md, .gitignore)
+This is part of the odin project JavaScript Course
